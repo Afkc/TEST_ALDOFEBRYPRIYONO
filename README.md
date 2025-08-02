@@ -247,7 +247,8 @@ C. Hasil teks
 Tambah
  
 Hapus
- 
+ <img width="1842" height="545" alt="image" src="https://github.com/user-attachments/assets/eddb9c69-9f24-4830-9077-d616368e4b05" />
+
 d. Hasil Diagnose dan jenis kelamin add
  
 Delete
