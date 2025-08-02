@@ -1,4 +1,4 @@
-SOAL TEST PROGRAMMING PROQUA
+<img width="1011" height="897" alt="image" src="https://github.com/user-attachments/assets/b5442c35-e594-4d74-b1d8-ca25f2e0c985" />SOAL TEST PROGRAMMING PROQUA
 1.	Buatkan sebuah algoritma bubble short dengan PHP! Jelaskan logikanya sejelas mungkin. Anda diperbolehkan menggunakan pseudocode, flowchart, atau penjelasan secara tekstual.
 2.	Buatkan sebuah algoritma dengan loop (Bebas dengan while, do-while, for, foreach) untuk menentukan angka ganjil genap. Jelaskan logikanya sejelas mungkin. Anda diperbolehkan menggunakan pseudocode, flowchart, atau penjelasan secara tekstual.
 3.	Buat beberapa tabel :
@@ -92,9 +92,10 @@ END
 ________________________________________
 Kalau kamu butuh diagram flowchart dalam bentuk gambar atau versi optimasi (dengan swapped flag), tinggal bilang ya!
 Kodingan full
- 
+<img width="1011" height="897" alt="image" src="https://github.com/user-attachments/assets/32f7c135-7d8e-40b7-9b96-8bc8afaa8923" />
 Hasil
- 
+ <img width="572" height="286" alt="image" src="https://github.com/user-attachments/assets/a7ba18bc-a408-4f24-8628-7b1d59ceccfb" />
+
 2.
 💡 Tujuan Program
 Membuat algoritma dengan loop (contoh: for) untuk menentukan apakah sebuah angka ganjil atau genap.
@@ -172,9 +173,11 @@ END
 ________________________________________
 
 Kodingan lengkap
- 
+ <img width="991" height="720" alt="image" src="https://github.com/user-attachments/assets/c0905622-bd4b-4687-87ec-64f04fcdac5a" />
+
 Hasil
  
+<img width="958" height="366" alt="image" src="https://github.com/user-attachments/assets/495c3fea-57dd-4f75-a2b6-908866756a43" />
 
 3.
 a. Urutkan Tabel Berdasarkan Relasi Data
@@ -242,16 +245,21 @@ CREATE TABLE asesmen (
 );
 
 Untuk hasil
- 
+ <img width="1655" height="264" alt="image" src="https://github.com/user-attachments/assets/a064ec3f-d8ef-4489-9d03-c8cb07334e56" />
+
 C. Hasil teks
 Tambah
- 
+ <img width="1625" height="392" alt="image" src="https://github.com/user-attachments/assets/eef8fdc1-555c-4781-974a-93ea38bf2dfe" />
+
 Hapus
- <img width="1842" height="545" alt="image" src="https://github.com/user-attachments/assets/eddb9c69-9f24-4830-9077-d616368e4b05" />
+
+<img width="1409" height="359" alt="image" src="https://github.com/user-attachments/assets/189399a6-04bf-4da8-b257-1c094f88807d" />
 
 d. Hasil Diagnose dan jenis kelamin add
- 
-Delete
- 
+ <img width="1450" height="681" alt="image" src="https://github.com/user-attachments/assets/f0a8206f-4e43-44a5-9905-8f65b8cef9ae" />
+
+Hapus
+ <img width="1456" height="409" alt="image" src="https://github.com/user-attachments/assets/80bd4149-84d4-4528-9d16-2ee98f00186e" />
+
 Hasilnya
  
